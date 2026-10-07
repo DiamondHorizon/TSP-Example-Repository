@@ -1,2 +1,2 @@
-# Food-Buddy
-TSP Project Fall 2026
+# TSP-Example-Repo
+Example Repo for TSP Fall 2026
